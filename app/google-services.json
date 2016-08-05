@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "772752174427",
+    "firebase_url": "https://contactsapp-99cc1.firebaseio.com",
+    "project_id": "contactsapp-99cc1",
+    "storage_bucket": "contactsapp-99cc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772752174427:android:3a5ed4b4248c9e0b",
+        "android_client_info": {
+          "package_name": "main.ferolino.contactsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772752174427-mu3dt2p1fovklpasbfti6inou53r9ov4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "main.ferolino.contactsapp",
+            "certificate_hash": "06D317CA4100FD587EA53A4E0901599C688F8CC3"
+          }
+        },
+        {
+          "client_id": "772752174427-f8j4tg17m3jf58e49eu1vmtvsmrikqvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfT67c1ENs24iFM8VOFOYuwWCr9XGkQ9Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772752174427-f8j4tg17m3jf58e49eu1vmtvsmrikqvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
